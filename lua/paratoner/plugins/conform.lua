@@ -6,6 +6,7 @@ return {
       typescriptreact = { "prettier", "eslint" },
       javascript = { "prettier", "eslint" },
       javascriptreact = { "prettier", "eslint" },
+      python = { "black", "isort" },
     },
 
     formatters = {
